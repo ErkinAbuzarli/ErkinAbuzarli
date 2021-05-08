@@ -1,6 +1,6 @@
 ## Hi Friend
 
-I am **computer engineer** student in KTÜ (Turkey). I try to deal with anything related to computer engineering and improve myself day by day. If you think you can help me mine self-development or verse vice don't hesitate to mail me. Or if you have any feedback of any repository just open issue. 
+I am **computer engineer** student in KTU (Turkey). I try to deal with anything related to computer engineering and improve myself day by day. If you think you can help me mine self-development or verse vice don't hesitate to mail me. Or if you have any feedback of any repository just open issue. 
 
 
 <details><summary>If you are interested my CV </summary>
